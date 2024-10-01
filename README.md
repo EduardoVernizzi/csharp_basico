@@ -1,20 +1,20 @@
-# C# Básico
-Bootcamp XP FullStack
+# C# Básico | Bootcamp XP FullStack
 
- "Coding the Future: Full Stack Developer" da DIO oferece uma ampla gama de habilidades para desenvolvedores. Aqui estão algumas das principais habilidades adquiridas:
+### 💻"Coding the Future: Full Stack Developer" da DIO oferece uma ampla gama de habilidades para desenvolvedores. Aqui estão algumas das principais habilidades adquiridas:
 
-Desenvolvimento Frontend: Aprendizado em HTML, CSS e JavaScript, permitindo a criação de interfaces interativas e responsivas.
+- Desenvolvimento Frontend: Aprendizado em HTML, CSS e JavaScript, permitindo a criação de interfaces interativas e responsivas.
 
-Frameworks e Bibliotecas: Domínio de frameworks populares como React, que facilita a construção de aplicativos web modernos e dinâmicos.
+- Frameworks e Bibliotecas: Domínio de frameworks populares como React, que facilita a construção de aplicativos web modernos e dinâmicos.
 
-Desenvolvimento Backend: Conhecimento em linguagens e tecnologias como Node.js e Express, essenciais para construir a lógica do servidor e gerenciar APIs.
+- Desenvolvimento Backend: Conhecimento em linguagens e tecnologias como Node.js e Express, essenciais para construir a lógica do servidor e gerenciar APIs.
 
-Banco de Dados: Habilidades em trabalhar com bancos de dados relacionais e não relacionais, como SQL e MongoDB, para armazenar e gerenciar dados eficientemente.
+- Banco de Dados: Habilidades em trabalhar com bancos de dados relacionais e não relacionais, como SQL e MongoDB, para armazenar e gerenciar dados eficientemente.
 
-Versionamento de Código: Familiaridade com Git e GitHub, fundamentais para colaboração em projetos e controle de versões.
+- Versionamento de Código: Familiaridade com Git e GitHub, fundamentais para colaboração em projetos e controle de versões.
 
-Práticas de DevOps: Entendimento básico de integração contínua e entrega contínua (CI/CD), otimizando o ciclo de desenvolvimento.
+- Práticas de DevOps: Entendimento básico de integração contínua e entrega contínua (CI/CD), otimizando o ciclo de desenvolvimento.
 
-Metodologias Ágeis: Conhecimento de metodologias como Scrum e Kanban, promovendo um desenvolvimento mais colaborativo e adaptável.
+- Metodologias Ágeis: Conhecimento de metodologias como Scrum e Kanban, promovendo um desenvolvimento mais colaborativo e adaptável.
 
-link: https://web.dio.me/track/a932e25b-41f5-4132-9cc9-ae47fc10f2cb
+ O bootcamp foi proporcionado pela [Digital Innovation One.](https://web.dio.me/track/a932e25b-41f5-4132-9cc9-ae47fc10f2cb)
+

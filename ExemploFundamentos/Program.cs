@@ -6,10 +6,12 @@ using System.Data;
 
 int numero = 10;
 
-Console.WriteLine($"{numero} x 1 = {numero*1}");
 
-for (int i = 0; i < numero; i++)
+for (int i = 0; i <= 10; i++)
 {
+
+    Console.WriteLine($"{numero} x {i} = {numero*i}");
+   
 
 }
 

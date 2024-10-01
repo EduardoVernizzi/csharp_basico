@@ -4,10 +4,10 @@ using System.Data;
 
 
 
-Raiz Quadrada
+//Raiz Quadrada
 
-Calculadora calc = new Calculadora();
-calc.RaizQuadrada(144);
+//Calculadora calc = new Calculadora();
+//calc.RaizQuadrada(144);
 
 
 //Incremento e Decremento

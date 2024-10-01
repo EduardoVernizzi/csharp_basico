@@ -2,6 +2,26 @@
 using ExemploFundamentos.Models;
 using System.Data;
 
+//Introdução a laços de repetição
+
+int numero = 10;
+
+Console.WriteLine($"{numero} x 1 = {numero*1}");
+
+for (int i = 0; i < numero; i++)
+{
+
+}
+
+
+
+
+
+
+
+
+
+
 
 
 //Raiz Quadrada

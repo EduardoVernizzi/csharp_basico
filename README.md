@@ -16,3 +16,5 @@ Versionamento de Código: Familiaridade com Git e GitHub, fundamentais para cola
 Práticas de DevOps: Entendimento básico de integração contínua e entrega contínua (CI/CD), otimizando o ciclo de desenvolvimento.
 
 Metodologias Ágeis: Conhecimento de metodologias como Scrum e Kanban, promovendo um desenvolvimento mais colaborativo e adaptável.
+
+link: https://web.dio.me/track/a932e25b-41f5-4132-9cc9-ae47fc10f2cb

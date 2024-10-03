@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ExemploFundamentos",
+    "\\ExemploFundamentos.Common"
   ],
-  "SelectedNode": "\\ExemploFundamentos.sln",
+  "SelectedNode": "\\ExemploFundamentos\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

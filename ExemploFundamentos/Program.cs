@@ -1,15 +1,145 @@
 ﻿
 using System;
 
+//Vantagens da lista
+
+List<string> listaString = new List<string>();
+
+listaString.Add("São Paulo");
+listaString.Add("Rio de Janeiro");
+listaString.Add("Santa Catarina");
+listaString.Add("Minas Gerais");
+
+Console.WriteLine($"Itens da minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+listaString.Add("Alagoas");
+
+Console.WriteLine($"Itens da minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+listaString.Remove("Rio de Janeiro");
+
+Console.WriteLine($"Itens da minha lista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+
+
+
+//Implementação de Listas
+
+//List<string> listaString = new List<string>();
+
+//listaStringAdd("São Paulo");
+//listaString.Add("Rio de Janeiro");
+//listaString.Add("Santa Catarina");
+
+//for(int i = 0; i < listaString.Count; i++)
+//{
+//    Console.WriteLine($"Posição nº{i} - {listaString[i]}");
+//}
+
+//Console.WriteLine("\nPercorrendo a lista com Foreach \n");
+
+//int j = 0;
+
+//foreach(string item in listaString)
+//{
+//    Console.WriteLine($"Posição nº{j} - {item}");
+//    j++;
+//}
+
+
+
+//Copiando um Array para outro
+
+//int[] arrayInteiros = new int[3];
+
+
+//arrayInteiros[0] = 72;
+//arrayInteiros[1] = 64;
+//arrayInteiros[2] = 50;
+
+////Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
+
+//int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+//Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+
+//for (int i = 0; i < arrayInteiros.Length; i++)
+//{
+//    Console.WriteLine($"Posição nº {i} - {arrayInteiros[i]}");
+
+//}
+
+
+////Redimensionando um array
+
+//int[] arrayInteiros = new int[3];
+
+
+//arrayInteiros[0] = 72;
+//arrayInteiros[1] = 64;
+//arrayInteiros[2] = 50;
+
+//Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
+
+//for (int i = 0; i < arrayInteiros.Length; i++)
+//{
+//    Console.WriteLine($"Posição nº {i} - {arrayInteiros[i]}");
+//}
+
+
+//Implementação de Foreach
+
+//int[] arrayInteiros = new int[3];
+
+
+//arrayInteiros[0] = 72;
+//arrayInteiros[1] = 64;
+//arrayInteiros[2] = 50;
+
+//for (int i = 0; i < arrayInteiros.Length; i++)
+//{
+//    Console.WriteLine($"Posição nº {i} - {arrayInteiros[i]}");
+//}
+
+//Console.WriteLine("Percorrendo o Array como FOREACH");
+
+//int j = 0;
+//foreach (int valor in arrayInteiros)
+//{
+
+//    Console.WriteLine($"Posição nº {j} - {valor}");
+//    j++;
+//}
+
+
+//Implementação de  Array
+
+//int [] arrayInteiros = new int[3];
+
+
+//arrayInteiros[0] = 72;
+//arrayInteiros[1] = 64;
+//arrayInteiros[2] = 50;
+
+//for (int i = 0; i < arrayInteiros.Length; i++)
+//{
+//    Console.WriteLine($"Posição nº {i} - {arrayInteiros[i]}");
+//}
+
+
+
+
+
+
+
+
 //Utilizando classes em comum entre projetos
 
-using ExemploFundamentos.Common.Models;
+//using ExemploFundamentos.Common.Models;
 
-Pessoa pessoa1 = new Pessoa();
-pessoa1.Nome = "Eduardo Vernizzi";
-pessoa1.Idade = 25;
-pessoa1.Profissao = "Engenheiro civil";
-pessoa1.Apresentar();
+//Pessoa pessoa1 = new Pessoa();
+//pessoa1.Nome = "Eduardo Vernizzi";
+//pessoa1.Idade = 25;
+//pessoa1.Profissao = "Engenheiro civil";
+//pessoa1.Apresentar();
 
 
 
@@ -20,7 +150,7 @@ pessoa1.Apresentar();
 
 //while (exibirMenu)
 //{
-   
+
 //    Console.WriteLine("Digite a sua opção: ");
 //    Console.WriteLine("1 - Cadastrar cliente");
 //    Console.WriteLine("2 - Buscar cliente");
